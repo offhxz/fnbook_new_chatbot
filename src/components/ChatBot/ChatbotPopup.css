@@ -5,7 +5,7 @@
     position: fixed;
     bottom: 25px;
     right: 25px;
-    background-color: #007bff;
+    background-color: #1C1C1C;
     color: white;
     border: none;
     border-radius: 50%;
@@ -21,7 +21,7 @@
 }
 
 .chat-popup-button:hover {
-    background-color: #0056b3;
+    background-color: #1C1C1C;
     transform: scale(1.1);
 }
 
@@ -104,7 +104,7 @@
 }
 
 .user-message {
-    background-color: #007bff;
+    background-color: #1C1C1C;
     color: white;
     align-self: flex-end;
     border-bottom-right-radius: 5px;
@@ -146,12 +146,12 @@
     margin-right: 10px;
 }
 .chatbot-input-area input[type="text"]:focus {
-    border-color: #007bff;
-    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+    border-color: #1C1C1C;
+    box-shadow: 0 0 0 0.2rem rgba(21, 22, 24, 0.25);
 }
 
 .chatbot-input-area button {
-    background-color: #007bff;
+    background-color: #1C1C1C;
     color: white;
     border: none;
     border-radius: 50%;
@@ -165,5 +165,5 @@
 }
 
 .chatbot-input-area button:hover {
-    background-color: #0056b3;
+    background-color: #1C1C1C;
 }
