@@ -1,4 +1,14 @@
-# React + Vite
+# Como utilizar?
+
+- Abrir um terminal separado, abrir o diretório do projeto e rodar o comando: 
+node server.js
+
+- Abrir o terminal no VSCode e rodar o comando: 
+npm run dev
+
+Caso esteja em um computador da faculdade, executar dessa forma:
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+npm run dev
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
