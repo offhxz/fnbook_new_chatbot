@@ -3,7 +3,7 @@
  Abra o cmd e insira o seguinte comando:
 node -v (Verificar a versão do NodeJS instalada no PC, caso não haja nada, será necessário realizar a instalação)
 
-Baixe o ZIP do código do repositório do GitHub: git@github.com:offhxz/fnbook_new_chatbot.git
+Baixe o ZIP do código do repositório do GitHub.
 
 Extraia para o seu diretório de preferência
 
