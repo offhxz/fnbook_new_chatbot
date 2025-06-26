@@ -1,6 +1,6 @@
 # Como utilizar?
 
-- Abra o cmd e insira o seguinte comando:
+ Abra o cmd e insira o seguinte comando:
 node -v (Verificar a versão do NodeJS instalada no PC, caso não haja nada, será necessário realizar a instalação)
 
 Baixe o ZIP do código do repositório do GitHub: git@github.com:offhxz/fnbook_new_chatbot.git
@@ -18,14 +18,8 @@ npm install
 Depois, rode o comando: node server.js
 
 Agora partindo para o VsCode (Ou qualquer outra IDE, porém recomendamos o uso do Visual Studio Code)
-- Abra o terminal
-- Execute o comando 'npm run dev'
-	- O despejo desse comando te enviará um endereço local, algo como "http://localhost:5173/"
-	- Jogue essa URL em seu navegador e pronto, tudo deverá estar funcionando.
+ Abra o terminal
+ Execute o comando 'npm run dev'
+	 O despejo desse comando te enviará um endereço local, algo como "http://localhost:5173/"
+	 Jogue essa URL em seu navegador e pronto, tudo deverá estar funcionando.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
